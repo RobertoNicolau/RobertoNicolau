@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RobertoNicolau
-- 👀 I’m interested in become a Web Dev!
-- 🌱 I’m currently learning React and TypeScript
+- 👋 Hi, I’m **@RobertoNicolau**;
+- 👀 I’m work with Web Development and build beautiful UI!
+- 🌱 I’m currently learning Next JS and TypeScript;
 - 📫 How to reach me: (17)98834-4524 or roberto_la_nicolau on instagram
